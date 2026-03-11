@@ -29,9 +29,9 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🎮 Jogo da Velha](https://github.com/hoopeee/jogodavelha) | Jogo da velha interativo para dois jogadores | HTML, CSS, JavaScript |
-| [📸 Interface Instagram](https://github.com/hoopeee/interfaces-instagram) | Clone das telas de login e cadastro do Instagram | HTML, CSS |
-| [✖️ Tabuada](https://github.com/hoopeee/tabuada) | Gerador de tabuada interativo | HTML, CSS, JavaScript |
+| [🎮 Jogo da Velha]([https://github.com/gidotwav/jogodavelha](https://gidotwav.github.io/jogodavelha/)) | Jogo da velha interativo para dois jogadores | HTML, CSS, JavaScript |
+| [📸 Interface Instagram]([https://github.com/gidotwav/interfaces-instagram](https://gidotwav.github.io/interfaces-instagram/)) | Clone das telas de login e cadastro do Instagram | HTML, CSS |
+| [✖️ Tabuada]([https://github.com/gidotwav/tabuada](https://gidotwav.github.io/tabuad/)) | Gerador de tabuada interativo | HTML, CSS, JavaScript |
 
 ---
 
